@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to lightweb.com
+
+Here you will find solutions of popular coding questions to help you learn competitive programming.
+[Code1](https://github.com/max-aamir/lightweb.com/edit/master/index.html)
 
 You can use the [editor on GitHub](https://github.com/max-aamir/lightweb.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
